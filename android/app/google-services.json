@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027663264550",
+    "firebase_url": "https://tcc-viaja.firebaseio.com",
+    "project_id": "tcc-viaja",
+    "storage_bucket": "tcc-viaja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027663264550:android:126f0e12c475888b3b9fe7",
+        "android_client_info": {
+          "package_name": "com.viajaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027663264550-3hdu6f1abh54fnjd4a95q6c31402tt2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15Ae0qoQivuBh8yqR6XzD6eXIbdRyVK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027663264550-3hdu6f1abh54fnjd4a95q6c31402tt2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
